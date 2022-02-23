@@ -1,4 +1,4 @@
-<img src="https://i.imgur.com/PMqlxiH.png">
+<img src="https://user-images.githubusercontent.com/68619790/155266004-b70b8c3a-9d67-4bcc-9abb-7a48a2e54242.png">
 
 Content [designed](https://fireship.io/mission/) to increase developer happiness 😁 and productivity.
 
